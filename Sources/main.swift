@@ -190,6 +190,7 @@ block: { timer in
     }
     speech.voice = voice;
     synth.speak(speech)
+    print(percent)
 })
 
 
